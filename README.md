@@ -1,3 +1,3 @@
 # Fundamentos-CSharp-Balta.io
 
-#### anotações
+#### anotações sobre o curso
