@@ -1,4 +1,4 @@
 # Fundamentos-CSharp-Balta.io
 
-#### amanhã vai ter porqueué
+#### amanhã vai ter
 #### hoje não teve
