@@ -1,4 +1,3 @@
 # Fundamentos-CSharp-Balta.io
 
-#### hoje não teve
-fóck
+#### hoje não 
