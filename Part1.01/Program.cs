@@ -41,8 +41,20 @@ namespace Part1._01
             //bool 8bit
 
             char firstLetterOfMyName = 'M';
-            
+            string somLetters = "Text, some texts";
 
+            var charsAndchars = "hasdiosahdiohsad";
+            var numbers = 12;
+            //receives any types
+
+            var doesntAccepts;
+            //vars needs to be declared;
+
+            object something;
+            something = 2.5;
+            something = 1;
+            //objects are the getaway of variables we dont know their types. 
+            //different from vars, they can accept anything.
 
         }
     }
