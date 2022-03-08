@@ -5,23 +5,17 @@ namespace Part1._01
     class Program
     {
         static void Main(string[] args)
-        { 
-            WriteLine("Fundamentals");
+        {
+            Write($"Working with data types:");
+            //consts:
+            const int numberOne = 1;
+            const double numberTwo = 2.0;
 
-            Calculos calculo = new Calculos();
-            int resultado;
+            const string genre = ($"Female Fatale");
 
-            int num1 = 10;
-            int num2 = 20;
-            int num3 = 30;
+            int _int = 20;
+            double _double = 30.30;
             
-            calculo.Calculando(num1, num2, num3);
-
-            resultado = calculo.Calculando(num1, num2, num3);
-            
-            WriteLine($"Resultado: {resultado.ToString()}");
-            
-
         }
     }
 }

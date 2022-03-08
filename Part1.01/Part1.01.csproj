@@ -6,4 +6,8 @@
         <RootNamespace>Part1._01</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="Calculos.cs" />
+    </ItemGroup>
+
 </Project>
