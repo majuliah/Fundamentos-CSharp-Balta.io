@@ -1,3 +1,3 @@
 # Fundamentos-CSharp-Balta.io
 
-#### fundamentos de novo
+#### teorias somente
