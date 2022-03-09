@@ -1,3 +1,3 @@
 # Fundamentos-CSharp-Balta.io
 
-#### teorias somente
+#### hoje tem codijo
