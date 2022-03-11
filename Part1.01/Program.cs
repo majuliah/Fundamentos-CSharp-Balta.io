@@ -56,6 +56,12 @@ namespace Part1._01
             //objects are the getaway of variables we dont know their types. 
             //different from vars, they can accept anything.
 
+            int? isNull = null;
+            
+
+            is null
+
+
         }
     }
 }
