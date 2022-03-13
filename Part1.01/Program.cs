@@ -59,8 +59,6 @@ namespace Part1._01
             int? isNull = null;
             
 
-            is null
-
 
         }
     }
