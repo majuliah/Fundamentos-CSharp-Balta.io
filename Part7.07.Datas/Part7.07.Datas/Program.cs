@@ -34,6 +34,8 @@ namespace Part7._07.Datas
             var timeSpan = new TimeSpan(1);
             Console.WriteLine(timeSpan);
             
+            //dates is easy to manipulate!
+            //just need attention 
             
 
         }
