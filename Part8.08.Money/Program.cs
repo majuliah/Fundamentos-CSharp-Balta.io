@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
 using static System.Console;
 
 namespace Part8._08.Money
@@ -22,7 +23,14 @@ namespace Part8._08.Money
                                            //format G is numeric formatter 
             WriteLine(value.ToString($"F",CultureInfo.CreateSpecificCulture($"pt-BR")));
                                           //format F is separator, with a bigger precision, is how many cases after 0 you want to show
+
+            decimal methodCalcules = Math.Round(value);
+            decimal methodCalcules1 = Math.Ceiling(value);
+            decimal methodCalcules2 = Math.Floor(value);
             
+
+
+
         }                                 
         
         
