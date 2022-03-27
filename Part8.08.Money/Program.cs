@@ -28,6 +28,7 @@ namespace Part8._08.Money
             decimal methodCalcules1 = Math.Ceiling(value);
             decimal methodCalcules2 = Math.Floor(value);
             
+            
 
 
 
