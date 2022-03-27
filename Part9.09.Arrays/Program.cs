@@ -36,8 +36,12 @@ namespace Part9._09.Arrays
 
             foreach (var employees in employee)
                 WriteLine($"{employees.Id} and {employees.Name}");
-            
 
+            int[] arrayA = new int[4];
+            var arrayB = arrayA;
+
+            arrayB[0] = arrayA[0];
+            arrayA.CopyTo(arrayB, 2);
 
         }
     }
