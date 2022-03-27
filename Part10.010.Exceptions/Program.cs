@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿using System;
+using static System.Console;
 
 namespace Part10._010.Exceptions
 {
@@ -6,7 +7,33 @@ namespace Part10._010.Exceptions
     {
         static void Main(string[] args)
         {
-            WriteLine("Hello World!");
+            WriteLine("Exception");
+
+            int[] myArray = new int[5];
+
+            try
+            {
+                for (int index = 0; index < 10; index++)
+                    WriteLine(myArray[index]);
+            }            
+            catch (IndexOutOfRangeException e)
+            {
+                WriteLine(e.Message);
+                WriteLine(e.InnerException);
+                WriteLine($"Ooops, I didnt found the index at list");
+            }
+            catch (Exception exception)
+            {
+
+                WriteLine($"Ooops, something went wrong!");
+                throw;
+            }
+
+            
+            
+
+            
+
         }
     }
 }
