@@ -14,10 +14,10 @@ namespace Part10._010.Exceptions
             try
             {
                 //for (int index = 0; index < 10; index++)
-                    //WriteLine(myArray[index]);
-                    
-                Save("");    
-            }            
+                //WriteLine(myArray[index]);
+
+                Save("");
+            }
             catch (IndexOutOfRangeException e)
             {
                 WriteLine(e.Message);
@@ -35,6 +35,11 @@ namespace Part10._010.Exceptions
 
                 WriteLine($"Ooops, something went wrong!");
                 throw;
+            }
+            finally
+            {
+                WriteLine($"Fim!");
+                //doesnt expects parameters, ocurrent errors or not
             }
         }
 
