@@ -27,8 +27,24 @@ namespace Part9._09.Arrays
             foreach (int item in myFirstArray)
                 WriteLine($"{item}");
             
+            //
+            
+            var employee = new Employee[5];
+            employee[0] = new Employee() {Id = 128312, Name = ($"Manny")};
+            
+            var employee1 = new Employee() {Id = 1289374};
+
+            foreach (var employees in employee)
+                WriteLine($"{employees.Id} and {employees.Name}");
+            
 
 
         }
+    }
+
+    struct Employee
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

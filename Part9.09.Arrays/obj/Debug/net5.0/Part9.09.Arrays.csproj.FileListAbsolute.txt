@@ -1,0 +1,16 @@
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.exe
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.deps.json
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.runtimeconfig.json
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.runtimeconfig.dev.json
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.dll
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\ref\Part9.09.Arrays.dll
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\bin\Debug\net5.0\Part9.09.Arrays.pdb
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.csproj.AssemblyReference.cache
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.AssemblyInfoInputs.cache
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.AssemblyInfo.cs
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.dll
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\ref\Part9.09.Arrays.dll
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.pdb
+C:\Users\majul\Documents\Faculdade\Fundamentos C# Balta.io\Part9.09.Arrays\obj\Debug\net5.0\Part9.09.Arrays.genruntimeconfig.cache
