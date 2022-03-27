@@ -13,8 +13,10 @@ namespace Part10._010.Exceptions
 
             try
             {
-                for (int index = 0; index < 10; index++)
-                    WriteLine(myArray[index]);
+                //for (int index = 0; index < 10; index++)
+                    //WriteLine(myArray[index]);
+                    
+                Save("");    
             }            
             catch (IndexOutOfRangeException e)
             {
@@ -22,18 +24,26 @@ namespace Part10._010.Exceptions
                 WriteLine(e.InnerException);
                 WriteLine($"Ooops, I didnt found the index at list");
             }
+            catch (ArgumentNullException e)
+            {
+                WriteLine(e.Message);
+                WriteLine(e.InnerException);
+                WriteLine($"Text save failed");
+            }
             catch (Exception exception)
             {
 
                 WriteLine($"Ooops, something went wrong!");
                 throw;
             }
+        }
 
-            
-            
-
-            
-
+        private static void Save(string text)
+        {
+            if (string.IsNullOrEmpty(text))
+            {
+                throw new ArgumentNullException($"Text is null or empty!");
+            }
         }
     }
 }
