@@ -21,6 +21,11 @@ namespace Part9._09.Arrays
             int[] mySecondArray = new int[5];
             mySecondArray[0] = 11;
             mySecondArray[2] = 13;
+            mySecondArray.Clone();
+            WriteLine(mySecondArray.Length);
+
+            foreach (int item in myFirstArray)
+                WriteLine($"{item}");
             
 
 
